@@ -18,20 +18,20 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "ZakYBoT-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ZakY√×፝֟͜×" //nama kalian
+global.botname = "azwanBoT-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄azwan√×፝֟͜×" //nama kalian
 global.myweb ="https://chat.whatsapp.com/FZEid847RlmJWNBMnSyXPI" //bebas asal jan hapus
 global.youtube = "https://chat.whatsapp.com/FZEid847RlmJWNBMnSyXPI" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "Zakyofficial@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6281365255567" // nomor wa kalian
-global.ownernomerr = "+6281365255567" //nmr wa kalian
+global.ownernomer = "62882103870121" // nomor wa kalian
+global.ownernomerr = "+62882103870121" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6281365255567","6281365255567","6281365255567"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© ZakYBoT-Mdོ' //sticker wm ubah
+global.owner = ["62882103870121","62882103870121","62882103870121"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© azwanBoT-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh Zaky' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
